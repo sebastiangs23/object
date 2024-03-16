@@ -1,13 +1,13 @@
 {
     "name": "REX Token",
     "symbol": "REX",
-    "description": "Un token inspirado en Rex de Toy Story.",
+    "description": "Un token mas",
     "seller_fee_basis_points": 500,
-    "image": "https://example.com/path/to/rex_image.png",
+    "image": "https://w7.pngwing.com/pngs/17/532/png-transparent-rex-toy-story-sheriff-woody-lelulugu-pixar-toy-story-background-tyrannosaurus-terrestrial-animal-velociraptor-thumbnail.png",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Toy Story Room"
+            "value": "Toy"
         },
         {
             "trait_type": "Mood",
@@ -21,14 +21,14 @@
     "properties": {
         "files": [
             {
-                "uri": "https://example.com/path/to/rex_image.png",
+                "uri": "https://w7.pngwing.com/pngs/17/532/png-transparent-rex-toy-story-sheriff-woody-lelulugu-pixar-toy-story-background-tyrannosaurus-terrestrial-animal-velociraptor-thumbnail.png",
                 "type": "image/png"
             }
         ],
         "category": "image",
         "creators": [
             {
-                "address": "tuDireccionSolanaAqui",
+                "address": "5UDFjXPqxqqMuvn4HHrGeqfx1rxQrPZU2cKS1apyFNpV",
                 "share": 100
             }
         ]
